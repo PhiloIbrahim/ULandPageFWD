@@ -6,4 +6,4 @@ This is a basic landing page that uses JS to create a navbar dynamically dependi
 
 To view project
 
-The project is published on GitHub Pages. To view, click on this link: 
+To view live demo, click on this link: https://philoibrahim.github.io/ULandPageFWD/
